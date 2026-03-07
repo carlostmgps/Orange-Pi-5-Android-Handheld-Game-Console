@@ -22,3 +22,5 @@ My goal:
 
 USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs  [LINK](https://www.adafruit.com/product/1566) 39.95USD
 Orange Pi 5 16gb [Link](https://e.tb.cn/h.i2LfNGjXf5lZXff?tk=K51dUuX3cC2)  1900 rmb
+2x 64gb tfcard [LINK](https://e.tb.cn/h.i2ybQZQlsHyMiE1?tk=S8PhUuRI9QB)  140rmb
+7inch touchscreen [Link](https://e.tb.cn/h.i2RoroSwYrMQFAG?tk=mAtMUuRFne7) 198rmb
