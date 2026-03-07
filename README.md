@@ -29,3 +29,4 @@ Cooling Fan 19rmb [LINK](https://e.tb.cn/h.idzK3fJlqxSjamQ?tk=dNAvUuRyINo)
 
 Then I started designing my d1mini joycon😜😜(18:25pm)
 
+Erm yah I just wired the power supply and watched some youtube and now is 23:58pm and I guess I gotta sleep.
