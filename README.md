@@ -1,2 +1,23 @@
-# Orange-Pi-CM5-Android-Handheld-Game-Console
-Orange Pi CM 5 + Battery + Touch Screen + Microphone + Speaker + Fan + D1 Mini Custom PCB controller = AMAZING ANDROID GAME CONSOLE!!!!!!!
+# Orange-Pi-5-Handheld-Game-Console
+Orange Pi 5 + Battery + Touch Screen + Microphone + Speaker + Fan + D1 Mini Custom PCB controller = AMAZING ANDROID AND LINUX GAME CONSOLE!!!!!!!
+
+Hello I'm 12zcab,a secondary school student in HK.
+#3/7/2026 Day 1
+I just discovered the blueprint scheme a few days ago and now I realized,its the time to make my dream game console come true.
+There are only 2 weeks left for me but I think i can make it in time.
+So firstly my planned hardware should include:
+1 Orange Pi 5 16gb ram    for games like MineCraft and emulators like RETROARCH
+1 touchscreen
+1 speaker ...or maybe 2?
+1 Microphone
+1 simple tiny fan to cool down my CM5
+2 D1mini for my custom PCB comtroller
+2 Joysticks
+IDK A few buttons
+Some Batteries
+
+My goal:
+1.Use linux to run minecraft Java
+2.Use retroarch to emulate NDS Games
+
+USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs  [LINK](https://www.adafruit.com/product/1566) 39.95USD
