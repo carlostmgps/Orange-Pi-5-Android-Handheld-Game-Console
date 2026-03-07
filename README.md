@@ -21,4 +21,4 @@ My goal:
 2.Use retroarch to emulate NDS Games
 
 USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs  [LINK](https://www.adafruit.com/product/1566) 39.95USD
-Orange Pi 5 16gb [Link](https://e.tb.cn/h.i2LfNGjXf5lZXff?tk=K51dUuX3cC2)  1300 rmb
+Orange Pi 5 16gb [Link](https://e.tb.cn/h.i2LfNGjXf5lZXff?tk=K51dUuX3cC2)  1900 rmb
