@@ -21,3 +21,4 @@ My goal:
 2.Use retroarch to emulate NDS Games
 
 USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs  [LINK](https://www.adafruit.com/product/1566) 39.95USD
+【淘宝】7天无理由退货 「香橙派Orange pi 5 PRO开发板 RK3588S主频2.4GHz 6T算力 8核64位」  [Link](https://e.tb.cn/h.i2LfNGjXf5lZXff?tk=K51dUuX3cC2)  2780 rmb
