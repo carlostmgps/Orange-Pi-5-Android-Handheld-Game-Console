@@ -30,3 +30,7 @@ Cooling Fan 19rmb [LINK](https://e.tb.cn/h.idzK3fJlqxSjamQ?tk=dNAvUuRyINo)
 Then I started designing my d1mini joycon😜😜(18:25pm)
 
 Erm yah I just wired the power supply and watched some youtube and now is 23:58pm and I guess I gotta sleep.
+
+
+#Day 2 8-3-2026  17:35
+Humm I decided to use esp32 supermini board I found in taobao as it's much smaller.
