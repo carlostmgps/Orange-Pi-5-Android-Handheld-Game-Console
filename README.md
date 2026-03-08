@@ -33,5 +33,4 @@ Erm yah I just wired the power supply and watched some youtube and now is 23:58p
 
 
 #Day 2 8-3-2026  17:35
-Humm I decided to use esp32 supermini board I found in taobao as it's much smaller.
-[Github Link](https://github.com/Zektopic/esp32-h2-supermini-kicad)
+Humm I decided to use esp32 C3 supermini board I found in taobao as it's much smaller.
