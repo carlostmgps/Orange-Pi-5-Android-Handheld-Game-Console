@@ -39,3 +39,5 @@ However...I really can't find a Kicad module so I use Conn_MMxNN to represent th
 ![KiCad 3D model](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/71797056b306445c05f4cd25ffa2676e7c43da14/image/d1minijoycon.png)
 
 12:49am gotta sleep :/ I just finished routing the pcb😁😁
+![KiCad Routed PCB](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/ca8e7b5abddabb205057067e1a284b8bcb0be144/image/Screenshot_20260309_004916_com.iiordanov.freebVNC_edit_134168961203485.jpg)
+![KiCad Routed PCB](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/ca8e7b5abddabb205057067e1a284b8bcb0be144/image/Screenshot_20260309_004854_com.iiordanov.freebVNC_edit_134181280871712.jpg)
