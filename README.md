@@ -35,3 +35,5 @@ Erm yah I just wired the power supply and watched some youtube and now is 23:58p
 #Day 2 8-3-2026  17:35
 Humm I decided to use esp32 C3 supermini board I found in taobao as it's much smaller.
 However...I really can't find a Kicad module so I use Conn_MMxNN to represent the board.
+23:45 YEAH~~~~ I think this kinda good i guess
+![KiCad 3D model](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/71797056b306445c05f4cd25ffa2676e7c43da14/image/d1minijoycon.png)
