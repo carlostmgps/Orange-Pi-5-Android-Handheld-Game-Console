@@ -1,5 +1,5 @@
 # Orange-Pi-5-Handheld-Game-Console
-Orange Pi 5 + Battery + Touch Screen + Microphone + Speaker + Fan + D1 Mini Custom PCB controller = AMAZING ANDROID AND LINUX GAME CONSOLE!!!!!!!
+Orange Pi 5 + Battery + Touch Screen + Microphone + Speaker + Fan + esp32 Custom PCB controller = AMAZING ANDROID AND LINUX GAME CONSOLE!!!!!!!
 
 Hello I'm 12zcab,a secondary school student in HK.
 #3/7/2026 Day 1
