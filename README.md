@@ -41,3 +41,9 @@ However...I really can't find a Kicad module so I use Conn_MMxNN to represent th
 12:49am gotta sleep :/ I just finished routing the pcb😁😁
 ![KiCad Routed PCB](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/ca8e7b5abddabb205057067e1a284b8bcb0be144/image/Screenshot_20260309_004916_com.iiordanov.freebVNC_edit_134168961203485.jpg)
 ![KiCad Routed PCB](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/ca8e7b5abddabb205057067e1a284b8bcb0be144/image/Screenshot_20260309_004854_com.iiordanov.freebVNC_edit_134181280871712.jpg)
+
+#Day 3 9-3-2026
+Continued on pcb editing and searched for material needed in taobao website.
+
+Also I hope I can finish the pcb design in 3 to 4days and prepare the material list in a week then start to design the case.
+Hopefully I can submit the project for review before 23-3-2026.
