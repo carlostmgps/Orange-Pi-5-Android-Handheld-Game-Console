@@ -2,6 +2,14 @@
 Orange Pi 5 + Battery + Touch Screen + Microphone + Speaker + Fan + esp32 Custom PCB controller = AMAZING ANDROID AND LINUX GAME CONSOLE!!!!!!!
 
 Hello I'm 12zcab,a secondary school student in HK.
+
+#why I made this project?
+Welp I'm a really big fan of retro gaming such as n64, gameboy, nes,gba(oh yah I loved Nintendo.) why? That's mainly because one day I found a few old books on a table near my home labeled "Free",and I took it home and read all of it.
+Theres one that caused me to be a retro fan,an user manual of Hektor,a 8085 computer.After reading that book,I discovered Zilog80,an amazing and neat perfect and the easiest design I have ever seen.
+You know what? Actually the Nintendo Gameboy's instruction set is really similar to Zilog80 and I started to research on how gameboy works and I even made my "own gameboy emulator" by searching how it works online and copy some of other's code then add more function myself.
+Also I like to read code of the disassembled version of gameboy game Pokémon Red.
+And now I really wanna make my own game console with orange pi that can emulate the Nintendo Game Console Series from NES to NDS.
+
 #3/7/2026 Day 1
  12:35pm
 I just discovered the blueprint scheme a few days ago and now I realized,its the time to make my dream game console come true.
