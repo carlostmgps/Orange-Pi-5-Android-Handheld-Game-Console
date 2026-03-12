@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0b6b60fb-8030-4338-95b5-ef573d19294e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 83.82 78.74)
+		(size 13.97 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "54b11ad1-fd3b-4efb-9abd-c1d255624c12")
+		(property "Sheetname" "JoyCon1"
+			(at 83.82 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JoyCon.kicad_sch"
+			(at 83.82 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "d1minijoycon"
+				(path "/0b6b60fb-8030-4338-95b5-ef573d19294e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 78.74)
+		(size 13.97 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6829f63c-200a-4c8a-9ef1-eb69ad1e99d4")
+		(property "Sheetname" "JoyCon"
+			(at 60.96 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JoyCon.kicad_sch"
+			(at 60.96 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "d1minijoycon"
+				(path "/0b6b60fb-8030-4338-95b5-ef573d19294e"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
