@@ -56,7 +56,13 @@ Continued on pcb editing and searched for material needed in taobao website.
 Also I hope I can finish the pcb design in 3 to 4days and prepare the material list in a week then start to design the case.
 Hopefully I can submit the project for review before 23-3-2026.
 
-#Day 4 12-3-2026
+#Day 6 12-3-2026
 I just done a simple bom list and finished all the pcb designing(oh yeah it's name was d1mini joycon as I originally wanted to use d1mini but found out it only have 1 analog pin) (yay!) All files including the stl file can be found in the PCB-Design folder in github.
 Erm because I'm lazy so I think i will just simply flip the board for another side hehe.
 Also I just did some research on using esp32 to make controllers and I tried it with d1mini and it's perfect:D
+
+#Day 11 17-3-2026
+HUMMMMMMMM I hope this 3D model is okay I guess. Im not really good at designing.
+![3D modelling](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/3c82e4e66f4b1be910bb6ef94337df1aa66ce39c/image/3D%20modeling.png)
+The 3D model is uploaded to the Model file,but sadly i cant really share the original file cuz its made with tinkercad.
+[LINK to TINKERCAD Project](https://www.tinkercad.com/things/lrAWRHE2oKm-orangepi-game-console?sharecode=MQfT5zH1kE5UchqxLdm9KHmoapcb7OkEz_jWbnckgjE)
