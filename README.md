@@ -75,3 +75,6 @@ I have made two different firmware files,for arduino and micropython.
 Actually I'm not really good at arduino CPP coding but i think it does save more memory incase i wanna make a macro function to record my move and save them which may use a lot of memory?
 [LINK to the firmware file](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/tree/main/firmware)
 ![Image of Arduino Programming](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/9e5cf21bc87036f233ab46124d8b0d2cbaca4186/image/Arduino%20Coding.png)
+
+Erm the submission is reject then I think i will try to save money and buy the orange pi myself later 😅😅
+I deleted the orange pi and it's fan from bom and tried to resubmit:D
