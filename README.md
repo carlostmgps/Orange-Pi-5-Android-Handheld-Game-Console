@@ -66,3 +66,10 @@ HUMMMMMMMM I hope this 3D model is okay I guess. Im not really good at designing
 ![3D modelling](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/3c82e4e66f4b1be910bb6ef94337df1aa66ce39c/image/3D%20modeling.png)
 The 3D model is uploaded to the Model file,but sadly i cant really share the original file cuz its made with tinkercad.
 [LINK to TINKERCAD Project](https://www.tinkercad.com/things/lrAWRHE2oKm-orangepi-game-console?sharecode=MQfT5zH1kE5UchqxLdm9KHmoapcb7OkEz_jWbnckgjE)
+
+# Day 13 19-3-2026
+YAY i just done the firmware,however the usage of S and S2 button and Mode button and LED is not yet decided yet :D
+I have made two different firmware files,for arduino and micropython.
+Actually I'm not really good at arduino CPP coding but i think it does save more memory incase i wanna make a macro function to record my move and save them which may use a lot of memory?
+[LINK to the firmware file](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/tree/main/firmware)
+![Image of Arduino Programming](https://github.com/carlostmgps/Orange-Pi-5-Android-Handheld-Game-Console/blob/9e5cf21bc87036f233ab46124d8b0d2cbaca4186/image/Arduino%20Coding.png)
